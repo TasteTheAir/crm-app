@@ -1,4 +1,4 @@
-# README.md
+# README
 
 An example of a README.md file for demonstration purposes
 
